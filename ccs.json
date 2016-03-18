@@ -1,19 +1,19 @@
 {
-    "room":"♪ Electro Dubstep Music ♪",
-    "author":"TokerJoker",
-    "icon":null,
-    "css":null,
-    "rules":{
-        "allowAutorespond":true,
-        "allowAutowoot":true,
-        "allowAutojoin":true,
-        "allowAutograb":true,
-        "allowSmartVote":true,
-        "allowEmotes":true,
-        "allowShowingMehs":true,
-        "forceSmartVote":false
+    "room": "♪ Electro Dubstep Music ♪",
+    "author": "TokerJoker",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
     },
-    "ccc":{
+    "ccc": {
         "admin":"#436EEE",
         "ambassador":"#32CD32",
         "host":"#CD5C5C",
@@ -26,20 +26,20 @@
         "friend":"#CD919E",
         "user":"#CD919E"
     },
-    "images":{
-        "background":"http://imgur.com/4c7QHmc",
-        "playback":null,
-        "admin":null,
-        "ambassador":null,
-        "host":"http://imgur.com/5wMXvSi",
-        "cohost":"http://imgur.com/KGqnmA6",
-        "manager":"http://imgur.com/SMqIIRW",
-        "bouncer":"http://imgur.com/9iVZIgR",
-        "rdj":"http://imgur.com/Pnxx1eS",
-        "subscriber":null,
-        "silversubscriber":null
+    "images": {
+        "background": "http://i.imgur.com/BQWS7aF.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/GfA1oyb.png",
+        "cohost": "http://i.imgur.com/pSy4GXT.png",
+        "manager": "http://i.imgur.com/dRNjxqo.png",
+        "bouncer": "http://i.imgur.com/goN7IDO.png",
+        "rdj": "http://i.imgur.com/aiRiFma.png",
+        "subscriber": null,
+        "silversubscriber": null,
     },
-    "emotes":{
-        "emote_name":null
+    "emotes": {
+    	"emote_name": null
     }
 }
