@@ -20,11 +20,11 @@
         "cohost":"#CD5C5C",
         "manager":"#8DB6CD",
         "bouncer":"#9BCD9B",
-        "rdj":"#9C9C9C",
-        "subscriber":"#FFD700",
+        "rdj":"#8B475D",
+        "subscriber":"#EEDC82",
         "silversubscriber":"#C1CDCD",
-        "friend":"#CD919E",
-        "user":"#8B92A3"
+        "friend":"#FFFFE0",
+        "user":"#FFFFE0"
     },
     "images": {
         "background": "http://i65.tinypic.com/34t751y.png",
@@ -35,7 +35,7 @@
         "cohost": "http://i.imgur.com/pSy4GXT.png",
         "manager": "http://i.imgur.com/dRNjxqo.png",
         "bouncer": "http://i.imgur.com/goN7IDO.png",
-        "rdj": "http://i.imgur.com/aiRiFma.png",
+        "rdj": "http://i.imgur.com/HMoAp9T.png",
         "subscriber": null,
         "silversubscriber": null
     },
