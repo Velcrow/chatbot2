@@ -2,7 +2,7 @@
     "room":"♪ Electro Dubstep Music ♪",
     "author":"TokerJoker",
     "icon":null,
-    "css":"@rcs=https://rawgit.com/Velcrow/chatbot2/master/ccs.json",
+    "css":null,
     "rules":{
         "allowAutorespond":true,
         "allowAutowoot":true,
