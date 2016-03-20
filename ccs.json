@@ -14,20 +14,20 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin":"#436EEE",
-        "ambassador":"#32CD32",
+        "admin": null,
+        "ambassador": null,
         "host":"#CD5C5C",
         "cohost":"#CD5C5C",
         "manager":"#8DB6CD",
         "bouncer":"#9BCD9B",
         "rdj":"#CDAA7D",
-        "subscriber":"#EEDC82",
-        "silversubscriber":"#C1CDCD",
-        "friend":"#FFFFE0",
-        "user":"#BEBEBE"
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
     },
     "images": {
-        "background": "http://i65.tinypic.com/34t751y.png",
+        "background": null,
         "playback": null,
         "admin": null,
         "ambassador": null,
