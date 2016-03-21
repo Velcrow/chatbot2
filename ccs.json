@@ -16,12 +16,12 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host":"#",
+        "host":"#F3508F",
         "cohost":"#CD5C5C",
         "manager":"#8DB6CD",
         "bouncer":"#B03060",
         "rdj":"#5DB4FF",
-        "subscriber": null,
+        "subscriber": #A1A6B3",
         "silversubscriber": null,
         "friend": null,
         "user": null
