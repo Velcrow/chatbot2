@@ -1,6 +1,6 @@
 {
     "room": "♪ Electro Dubstep Music ♪",
-    "author": "TokerJoker and F N X",
+    "author": "TokerJoker",
     "icon": "http://i.imgur.com/sCXNxh5.png",
     "css": null,
     "rules": {
@@ -16,12 +16,12 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host":"#F3508F",
-        "cohost":"#CD5C5C",
-        "manager":"#8DB6CD",
-        "bouncer":"#B03060",
-        "rdj":"#5DB4FF",
-        "subscriber":"#A1A6B3",
+        "host": "#F3508F",
+        "cohost": "#CD5C5C",
+        "manager": "#8DB6CD",
+        "bouncer": "#B03060",
+        "rdj": "#5DB4FF",
+        "subscriber": null,
         "silversubscriber": null,
         "friend": null,
         "user": null
@@ -36,8 +36,8 @@
         "manager": "http://i.imgur.com/ZB145mK.png",
         "bouncer": "http://i.imgur.com/yNlGItf.png",
         "rdj": "http://i.imgur.com/yxS1efR.png",
-        "subscriber": "http://i.imgur.com/3Wy4sxX.png",
-        "silversubscriber": "http://i.imgur.com/3Wy4sxX.png",
+        "subscriber": null,
+        "silversubscriber": null,
     },
     "emotes": {
     	"emote_name": null
