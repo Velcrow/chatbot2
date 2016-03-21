@@ -1,7 +1,7 @@
 {
     "room": "♪ Electro Dubstep Music ♪",
     "author": "TokerJoker and F N X",
-    "icon": "http://i.imgur.com/4e8B2qi.jpg",
+    "icon": "http://i.imgur.com/sCXNxh5.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "http://i.imgur.com/qEeFA7F.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
