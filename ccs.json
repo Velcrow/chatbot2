@@ -36,8 +36,8 @@
         "manager": "http://i.imgur.com/ZB145mK.png",
         "bouncer": "http://i.imgur.com/yNlGItf.png",
         "rdj": "http://i.imgur.com/yxS1efR.png",
-        "subscriber":           null,
-        "silversubscriber":     "http://i.imgur.com/3Wy4sxX.png"
+        "subscriber": "http://i.imgur.com/3Wy4sxX.png"
+        "silversubscriber": null,
     },
     "emotes": {
     	"emote_name": null
